@@ -60,7 +60,7 @@ $sql=	"SELECT UNIX_TIMESTAMP(date(in_date))*1000 md,count(1) c FROM  (select * f
   }else{
         $speed=$chart_data_all[0][1];
   }
-
+echo 'test of git';
 	
 
 
