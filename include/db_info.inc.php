@@ -8,8 +8,8 @@
 // connect db 
 static 	$DB_HOST="localhost";
 static 	$DB_NAME="jol";
-static 	$DB_USER="debian-sys-maint";
-static 	$DB_PASS="rYeJVzJLBtmyjIpW";
+static 	$DB_USER="root";
+static 	$DB_PASS="123456";
 
 static 	$OJ_NAME="HUSTOJ";
 static 	$OJ_HOME="./";
